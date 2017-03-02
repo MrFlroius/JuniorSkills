@@ -1,0 +1,18 @@
+U:\JS_Prog\JS_Prog\bin\Debug\JS_Prog.exe.config
+U:\JS_Prog\JS_Prog\bin\Debug\JS_Prog.exe
+U:\JS_Prog\JS_Prog\bin\Debug\JS_Prog.pdb
+U:\JS_Prog\JS_Prog\obj\Debug\JS_Prog.csprojResolveAssemblyReference.cache
+U:\JS_Prog\JS_Prog\obj\Debug\JS_Prog.Form1.resources
+U:\JS_Prog\JS_Prog\obj\Debug\JS_Prog.Properties.Resources.resources
+U:\JS_Prog\JS_Prog\obj\Debug\JS_Prog.csproj.GenerateResource.Cache
+U:\JS_Prog\JS_Prog\obj\Debug\JS_Prog.exe
+U:\JS_Prog\JS_Prog\obj\Debug\JS_Prog.pdb
+C:\Users\MrFlorius\Google Диск\JS_Prog\JS_Prog\bin\Debug\JS_Prog.exe.config
+C:\Users\MrFlorius\Google Диск\JS_Prog\JS_Prog\obj\Debug\JS_Prog.exe
+C:\Users\MrFlorius\Google Диск\JS_Prog\JS_Prog\obj\Debug\JS_Prog.pdb
+C:\Users\MrFlorius\Google Диск\JS_Prog\JS_Prog\bin\Debug\JS_Prog.exe
+C:\Users\MrFlorius\Google Диск\JS_Prog\JS_Prog\bin\Debug\JS_Prog.pdb
+C:\Users\MrFlorius\Google Диск\JS_Prog\JS_Prog\obj\Debug\JS_Prog.csprojResolveAssemblyReference.cache
+C:\Users\MrFlorius\Google Диск\JS_Prog\JS_Prog\obj\Debug\JS_Prog.Form1.resources
+C:\Users\MrFlorius\Google Диск\JS_Prog\JS_Prog\obj\Debug\JS_Prog.Properties.Resources.resources
+C:\Users\MrFlorius\Google Диск\JS_Prog\JS_Prog\obj\Debug\JS_Prog.csproj.GenerateResource.Cache
