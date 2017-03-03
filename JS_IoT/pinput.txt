@@ -1,0 +1,18 @@
+Arduino mega
+	scl 21
+	sda 20
+dht11
+	1st - d0
+	2nd - d1
+keypad
+	d22 - d36
+pump
+	d2
+led
+	d3
+lumonosity
+	a0
+noise
+	a1
+dallas_tmp
+	d4
